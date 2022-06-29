@@ -1,0 +1,39 @@
+.rithvik {
+    float: left;
+    width: 350px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 50%;
+    border-color: black;
+    border-style: ridge;
+}
+
+.navbar a {
+    color:rgb(138, 138, 138); 
+}
+
+.navbar a:hover {
+    color: rgb(255, 255, 255);
+}
+
+.nav-link {
+    color:rgb(124, 154, 180); 
+}
+
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+
+.myLinks a:hover {
+    color:white
+}
+
+.LinkedIn {
+    text-align: center; 
+    text-decoration: none; 
+    color:gold
+}
+
+.LinkedIn:hover {
+    color: rgb(255, 255, 255);
+}
